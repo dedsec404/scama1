@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /identity
+Disallow: /security
+Disallow: /settings
+Disallow: /signin
+Disallow: /success
